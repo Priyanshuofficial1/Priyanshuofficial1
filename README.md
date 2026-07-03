@@ -2,9 +2,17 @@
 
 # Hi, I'm Priyanshu
 
-I'm a Computer Science Engineering student learning cybersecurity, CTF problem solving, networking, Linux, and IoT security.
+I'm a Computer Science Engineering student at Govind Ballabh Pant Institute of Engineering and Technology, Pauri Garhwal. I am focused on cybersecurity, CTF problem solving, Linux, networking, embedded systems, and IoT security.
 
-I use GitHub to keep my practice projects, small tools, writeups, and hardware experiments in one place. Most of my projects are built to understand one concept properly instead of just following tutorials.
+I use GitHub to keep my security practice, CTF notes, Python tools, and hardware experiments in one place. Most of my projects are built to understand one concept properly instead of only following tutorials.
+
+## Profile Highlights
+
+- B.Tech CSE, 2024-2028
+- Vice Chair, IEEE Student Chapter
+- 3rd Position, SCYTHE CTF at IIT Roorkee
+- 7th Position, University of Porto CTF
+- Building projects around recon, phishing detection, secure login, CTF notes, ESP32, and wireless security labs
 
 ## What I'm Working On
 
@@ -12,20 +20,21 @@ I use GitHub to keep my practice projects, small tools, writeups, and hardware e
 - CTF notes and writeups
 - Web security fundamentals
 - Password and authentication security
-- IoT projects using ESP32, sensors, and alert systems
-- Networking practice with Linux, Wireshark, and Nmap
+- IoT and embedded projects using ESP32, NRF modules, sensors, and alert systems
+- Networking practice with Linux, Wireshark, Nmap, Burp Suite, and objdump
 
 ## Skills I'm Building
 
-**Cybersecurity:** CTFs, networking basics, web security basics, recon, password security  
+**Cybersecurity:** CTFs, networking basics, web security basics, recon, password security, binary analysis, cryptography challenges  
 **Programming:** Python, C, C++, JavaScript  
-**Tools:** Linux, GitHub, VS Code, Wireshark, Nmap, Burp Suite  
-**IoT:** ESP32, Arduino, PIR sensors, RFID modules, basic device alerting  
+**Tools:** Linux, GitHub, VS Code, Wireshark, Nmap, Burp Suite, objdump  
+**IoT and Embedded:** ESP32, Arduino, NRF modules, PIR sensors, RFID modules, basic device alerting  
 
 ## Projects
 
 | Project | What I Built | Main Learning |
 | --- | --- | --- |
+| Wireless Security Research System | A controlled ESP32 + NRF lab project for observing wireless channel behavior and logging readings | embedded security, RF basics, lab documentation |
 | Cyber Recon Toolkit | A Python CLI tool for checking selected TCP ports and saving recon results | sockets, ports, banner grabbing |
 | Phishing URL Detector | A rule-based URL checker that gives a risk score with reasons | URL parsing, phishing indicators |
 | Password Strength Analyzer | A CLI tool that checks entropy, patterns, and password weaknesses | password security, CLI design |
@@ -44,7 +53,7 @@ I use GitHub to keep my practice projects, small tools, writeups, and hardware e
 ## Contact
 
 - GitHub: Priyanshuofficial1
-- LinkedIn: add here after updating profile
+- Email: priyanshuofficials874@gmail.com
 
 ## Note
 
